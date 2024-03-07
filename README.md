@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...nothing at the moment but i'm sure that will change!
 - 📫 How to reach me ...digitalpunk.dev@outlook.com
-- 😄 Pronouns: ...const mood  = () => { if (mood === good) { return he/him } else { return it/thing} };
+- 😄 Pronouns: ...const pronouns  = () => { if (mood === good) { return he/him } else { return it/thing} };
 - ⚡ Fun fact: ...I used to be a small tiny baby, like really small, but eventually I grew out of it.
 
 <!---
