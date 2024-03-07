@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...nothing at the moment but i'm sure that will change!
 - 📫 How to reach me ...digitalpunk.dev@outlook.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I used to be a small tiny baby, like really small, grew out of it tho
+- 😄 Pronouns: ...const mood  = () => { if (mood === good) { return he/him } else { return it/thing} };
+- ⚡ Fun fact: ...I used to be a small tiny baby, like really small, grew out of it.
 
 <!---
 DigitalPunk79/DigitalPunk79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
