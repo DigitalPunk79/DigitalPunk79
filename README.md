@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DigitalPunk79
 - 👀 I’m interested in ...coding via HTML, CSS, JavaScript
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...Redux as part of the Front End Engineer course on CodeCademy
 - 💞️ I’m looking to collaborate on ...nothing at the moment but i'm sure that will change!
 - 📫 How to reach me ...digitalpunk.dev@outlook.com
 - 😄 Pronouns: ...const pronouns  = () => { if (mood === good) { return he/him } else { return it/thing} };
